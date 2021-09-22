@@ -1,0 +1,52 @@
+# 股东
+name_list1 = ["秘书长","股东","控股股东","关联股东","非关联股东","新股东","老股东","大股东","中股东","小股东","中小股东"]
+new_shareholder.txt
+
+# 董事会
+name_list2 = ["董事长","副董事长","董事会秘书","董事长秘书","董秘","董事候选人","执行董事","独立董事","独立董事候选人","非独立董事","非独立董事候选人","非独立董事会候选人","独立董事委员","实际董事","董事会候选人","董事"] 
+new_board_of_directors.txt
+
+# 董事会下设机构
+name_list3 = ["专业委员会委员","各专业委员会委员","战略委会委员","战略委员会委员","审计委员会委员","技术委员会委员","薪酬与考核委员会委员","提名委员会委员"] 
+new_board_of_directors1.txt
+
+# 监事会
+name_list4 = ["监事会主席","监事会副主席","监事"] 
+new_board_of_supervisors.txt
+
+# 行政系统
+name_list5 = ["主席","总裁","副总裁","总经理","经理","CEO","副总经理","总经理助理","办事机构负责人"] 
+new_administrative_system.txt
+
+# 行政部门或事业部人员
+name_list6 = ["事务代表","证券部经理","技术负责人","客运销售代理人","财务顾问","法律顾问"]
+new_administrative_department_or_business_department_staff.txt
+
+# 财务部门
+name_list7 = ["财务负责人","CFO","会计","财务人员","财务总监","财务科长","财务部长"]
+new_financial_department.txt
+ 
+# 内部审计部门
+name_list8 = ["审计负责人","审计部门负责人","审计科长","审计部长","内部审计人员","审计部负责人"]
+new_internal_audit_department.txt
+
+# 外部审计机构
+name_list9 = ["外部审计机构代表"]
+new_external_auditor.txt
+
+# 党委系统
+name_list10 = ["党委","党组","党委书记","党委副书记","党委常委","党委委员"]
+new_party_committee_system.txt
+
+# 法律概念
+name_list11 = ["实际控制人","法定代表人","授权代理人","失信被执行人"]
+new_legal_concept.txt
+
+# 泛称概念
+name_list12 = ["高管","高级管理人员","核心管理人员","中层管理人员","核心技术人员","核心技术业务人员","核心管理人员"]
+general_concept.txt
+
+# 其他
+name_list13 = ["负责人","候选人","理事长","所长","副所长","委员","技术负责人","工程师","专家库专家","课题组长"]
+new_other.txt
+
